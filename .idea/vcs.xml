@@ -5,6 +5,6 @@
     <mapping directory="$PROJECT_DIR$/../../UIC/dawa-backend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../UIC/django-boilerplate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../UIC/study-in-uzbekistan-backend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/django-telegram-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
